@@ -7,3 +7,4 @@ chitiet=tinh_chi_tiet_khau_hao(
     gia_mua_moi,phi_van_chuyen,phi_lap_dat, so_nam_du_kien)
 print("Chi tiết khấu hao:")
 print(chitiet)
+hello trân 
